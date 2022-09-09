@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9FaFkzJCy7RUaq80VPn5zb0ASRnl+InuzpPJrZA4gJ0/iyJwwDTQQIRB2zFeetmJO87u7Icn0sjCbN2bhnk9Lw==",
+  "success": true,
+  "projectFilePath": "E:\\Programacion_visual\\asignacion3\\tarea3\\tarea3\\tarea3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FCC-Tarde\\.nuget\\packages\\ncalc\\1.3.8\\ncalc.1.3.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"ncalc 1.3.8\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "ncalc",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
